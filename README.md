@@ -24,11 +24,11 @@ Uiteindelijke doel van deze pagina is om een overzicht te hebben van onze 'write
 Onze writeups, niet in volgorde
 
 ### Notities
-[Notities](/notities/README.md)
+[Notities](/notities/README.md)<br>
 Hoe doen wij notities, hoe encrypten we de boel, hoe gebruiken we private repo's om te syncen door devices? 
 
 ### Challenge coin
-[Challengecoin](/challengecoin/README.md)
+[Challengecoin](/challengecoin/README.md)<br>
 Op de politiehackathon kregen we een challengecoin, hier is hoe Amber de puzzel heeft opgelost.
 
 ## Links
