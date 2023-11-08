@@ -1,12 +1,14 @@
 # atelemonus
 Onze eigen teststraat
 
-<!--- ## expect us
-En andersoortige dramatiek
+<!---
+De makkelijkste manier van interne links maken is:
+[TITEL](/map/BESTANDnaam.ext)
 
-En hier is een link [linknaarbestand](/notities/README.md)
-
-directe link naar bestand in map [zo zegmaar](/notities/seconded.md) --->
+LET OP: verwijzen naar een bestand BINNEN een map moet zonder map. (Dus als je in /challengecoin zit geen /challengecoin/tweedebestand.ext doen, maar /tweedebestand.ext. 
+(Assuming dat er een tweedebestand.ext is in de map, ofc.)
+Verwijzen naar dat bestand BUITEN de map zelf is met /challengecoin.
+--->
 
 ## Onderwerpen
 Onze writeups, niet in volgorde
