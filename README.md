@@ -24,13 +24,12 @@ Uiteindelijke doel van deze pagina is om een overzicht te hebben van onze 'write
 Onze writeups, niet in volgorde
 
 ### Notities
-Hoe doen wij notities, hoe encrypten we de boel, hoe gebruiken we private repo's om te syncen door devices?
-Link! [Notities](/notities/README.md)
+Hoe doen wij notities, hoe encrypten we de boel, hoe gebruiken we private repo's om te syncen door devices? [Notities](/notities/README.md)
 
 ### Challenge coin
-Op de politiehackathon kregen we een challengecoin, hier is hoe Amber de puzzel heeft opgelost
-Link! [Challengecoin](/challengecoin/README.md)
+Op de politiehackathon kregen we een challengecoin, hier is hoe Amber de puzzel heeft opgelost: [Challengecoin](/challengecoin/README.md)
 
 ## Links
 Honourable mentions: [link](honourablementions.md)<br>
-Email: [{{ site.email }}](mailto:{{ site.email}} )
+Email: [{{site.email}}](mailto:{{site.email}})<br>
+E-mail: [StabyHacker@gmail.com](mailto:StabyHacker@gmail.com) 
