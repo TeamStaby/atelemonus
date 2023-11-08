@@ -5,6 +5,5 @@ Eventuele dependencies dan ook in deze map te krijgen
 
 ## Testes
 
-[linknaarbestandmetmap](/notities/seconded.md)
 
 en anders zo [ linknaarbestandzondermap](seconded.md)
