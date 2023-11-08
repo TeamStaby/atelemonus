@@ -4,8 +4,8 @@ Onze eigen teststraat
 ## expect us
 En andersoortige dramatiek
 
-[linknaarfolder](/notities)
+Hier is een link[linknaarfolder](/notities)
 
-[linknaarbestand](/notities/README.md)
+En hier is een link [linknaarbestand](/notities/README.md)
 
-[linknaarbestandinhoofdfolder](notities.md)
+En nog een hele link [linknaarbestandinhoofdfolder](notities.md)
