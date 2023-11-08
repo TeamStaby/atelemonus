@@ -10,11 +10,11 @@ Verwijzen naar dat bestand BUITEN de map zelf is met /challengecoin.
 
 Welkom op onze 'eigen teststraat'. Wij zijn Amber en Albert en wij hebben hobby's.
 Omdat we het leuk vinden daar over te schrijven en het leuk vinden om onszelf uit de dagen dachten we: 'laten we het gewoon online gooien, kan nooit kwaad'. 
-Omdat we het ook leuk vinden onszelf uit de dagen doen we dit, net als al onze andere projecten, met extra voor onszelf gestelde uitdagingen. In dit geval het werken op manieren die we nog niet kenden. 
-met github pages.
-En markdown.
-En git cli.
-Enzo.
+Omdat we het ook leuk vinden onszelf uit de dagen doen we dit, net als al onze andere projecten, met extra voor onszelf gestelde uitdagingen. In dit geval het werken op manieren die we nog niet kenden.</br> 
+met github pages.</br>
+En markdown.</br>
+En git cli.</br>
+Enzo.</br>
 
 Dus, fouten voorbehouden, laat het ons weten! We leren graag.
 
