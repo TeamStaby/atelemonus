@@ -5,5 +5,7 @@ Onze eigen teststraat
 En andersoortige dramatiek
 
 [linknaarfolder](/notities)
+
 [linknaarbestand](/notities/README.md)
+
 [linknaarbestandinhoofdfolder](notities.md)
