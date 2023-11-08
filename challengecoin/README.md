@@ -1,6 +1,6 @@
 # Challengecoin Politiehackathon
 
-Er was eens een hackathon
+Er was eens een hackathon.
 We hadden lol, werkten aan cases, deden een te gekke presentatie.
 Na afloop kregen we een coin. Hij lag mooi zwaar in de hand.
 
@@ -28,7 +28,7 @@ De tekens leken een fictief alfabet. Niet direct één die we herkenden, maar we
 
 2. Zoeken
 - Geen zin om de teksten over te schrijven, maar wel om lamlendig naar plaatjes te kijken
-- Zoektermen die zijn gebruikt:
+
 
 ### Is het stiekem toch Clingon?
 
@@ -45,45 +45,41 @@ Tolkiens Dwarven taal heet trouwens "Khuzdul".
 ### Welke sci-fi films kunnen we proberen?
 
 Een paar zoektermen:
-	- Predator language
-	- alien fonts movies
-	- alien languages movies
-	- alien police language
-	- star trek scripts
-	- star trek languages
-	- languages in star wars
-	- aurebesh
-	- alien spider language
-	- scifi language based on runes
-	- runescape alphabet
-	- what in the alient font is this
-	- 
+- Predator language
+- alien fonts movies
+- alien languages movies
+- alien police language
+- star trek scripts
+- star trek languages
+- languages in star wars
+- aurebesh
+- alien spider language
+- scifi language based on runes
+- runescape alphabet
+- what in the alient font is this
 
+ 
 Fun facts:
-1. Als je "star trek scripts" zoekt, krijg je [scripts](https://www.st-minutiae.com/resources/scripts/116.txt), geen fonts. 
-2. Somebody collected and analyzed all the fonts in [Alien](typesetinthefuture.com/2014/12/01/alie/) and it's awesome.
+1. Als je "star trek scripts" hzoekt, krijg je [scripts](https://www.st-minutiae.com/resources/scripts/116.txt), geen fonts. 
+2. Somebody collected and analyzed all the fonts in [Alien](https://typesetinthefuture.com/2014/12/01/alien/) and it's awesome.
 
 > "At least, I _say_ it's Helvetica - the G is dead cert, but the second M looks more like Futura.".
 
 3. Star Wars' [Aurebesh](https://starwars.fandom.com/wiki/Aurebesh) kwam het dichtst in de buurt, maar had geen match.
 4. Er zijn veel Huttese alphabets te vinden in de Star Wars franchise, maar degene die door fans als 'canonical' wordt gezien, is "Jabba's Alphabet" op een Star-Wars themed Pizza Hut doos.
 
-Uiteindelijk een hele lijst fictional alphabets gevonden op [omniglot](https://omniglot.com/conscripts/fictional.htm). Daarop bevatte Wakandan een aantal uniek overeenkomende symbolen. Met het daar geplaatste [alphabet](omniglot.com/conscripts/wakandan.htm) was het ontcijferen van de teskt een makkie.
+Uiteindelijk een hele lijst fictional alphabets gevonden op [omniglot](https://omniglot.com/conscripts/fictional.htm). Daarop bevatte Wakandan een aantal uniek overeenkomende symbolen. Met het daar geplaatste [alphabet](https://omniglot.com/conscripts/wakandan.htm) was het ontcijferen van de tekst een makkie.
 
 Geheime pagina gevonden, secret doorgegeven, en voila!
 
 ### Got sidetracked for a bit trying another approach:
-	- Searched with Google Lens + 'font'
-	- In een font finder geprobeerd een foto van de tekst te laten herkennen
-	- Te lui om de tekst over te schrijven
-	- Geen goed resultaat, te omslachtig.
+- Searched with Google Lens + 'font'
+- In een font finder geprobeerd een foto van de tekst te laten herkennen
+- Te lui om de tekst over te schrijven
+- Geen goed resultaat, te omslachtig.
 
 
 
-## En toen?
-
-In subkoppen.
-
-### Je raadt het niet
+## En toen? Je raadt het niet.
 
 We almost got rickrolled! Maar gelukkig autoplayde de video niet.
