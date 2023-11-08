@@ -32,5 +32,5 @@ Op de politiehackathon kregen we een challengecoin, hier is hoe Amber de puzzel 
 Link! [Challengecoin](/challengecoin/README.md)
 
 ## Links
-Honourable mentions: [link](honourablementions.md)
-Email: [site.email](mailto:site.email)
+Honourable mentions: [link](honourablementions.md)<br>
+Email: [{{ site.email }}](mailto:{{ site.email}} )
